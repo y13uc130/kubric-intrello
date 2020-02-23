@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: Roboto,Noto Sans,Ubuntu,Droid Sans,Helvetica Neue,sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #172b4d;
+}
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+*::-webkit-scrollbar {
+  width: 1px !important;
+}
+div {
+  outline: none;
+}
