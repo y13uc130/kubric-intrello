@@ -35,7 +35,7 @@ class Home extends Component {
       selectedBoardId: null,
       loading: true,
       addedToLSOnce: false
-    },
+    };
     this.timeoutToScrollUp = false;
     this.crossIcon = 'https://img.perniaspopupshop.com/ppus-assets/icons/cross-black.svg';
   }
