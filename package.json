@@ -1,5 +1,5 @@
 {
-  "name": "KubricAssignmentIntrello",
+  "name": "Intrello",
   "version": "1.0.0",
   "description": "A mini Trello replica!",
   "main": "index.js",

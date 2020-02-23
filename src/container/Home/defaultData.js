@@ -35,7 +35,7 @@ const list2 = {
   allCardIds: [id4, id5]
 }
 const board = {
-  heading: 'Kubric UI',
+  heading: 'A Lorem Ipsum Project',
   listsById : {
     [id6]: list,
     [id7]: list2
